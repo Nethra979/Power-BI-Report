@@ -11,10 +11,10 @@ This Power BI report provides key insights into employee attrition, performance,
 Data includes employee demographics, performance ratings, and attrition details, sourced from an HR analytics CSV file.
 
 ## Tools Used
-Power BI Desktop,
-Power Query,
-DAX,
-Excel/CSV
+<p>Power BI Desktop</p>
+<p>Power Query</p>
+<p>DAX</p>
+<p>Excel/CSV</p>
 
 ## How to Use
 <p>Clone the repository.</p>
